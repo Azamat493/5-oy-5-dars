@@ -16,7 +16,7 @@ const Showcase = () => {
   };
 
   return (
-    <section className="bg-[#1c1c1c] py-8 px-4 sm:py-12 sm:px-6">
+    <section className="bg-[#1c1c1c] py-8 px-0 sm:py-12 sm:px-6">
       <div className="max-w-[1200px] mx-auto w-[90%] relative">
         <div
           className="relative h-[200px] smm:h-[300px] lg:h-[500px] rounded-[20px] bg-cover bg-center transition-all duration-500"
