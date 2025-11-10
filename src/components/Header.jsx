@@ -20,7 +20,7 @@ const Header = () => {
   return (
     <>
     <div id="top"></div>
-    <div className="bg-[#1c1c1c] sticky top-0 z-999 border-b-[1.50px] border-b-[#333] border-solid">
+    <div className="bg-[#1c1c1c] sticky top-0 w-full z-[999] border-b-[1.5px] border-b-[#333] border-solid">
       <header className="max-w-[1440px] w-[80%] mx-auto py-4 px-6 flex xl:flex-nowrap flex-wrap gap-5 items-center justify-between md:justify-center xll:justify-between">
         <div className="flex items-center gap-8">
           <a href="/">
