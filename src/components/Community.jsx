@@ -5,7 +5,7 @@ const Community = () => {
   return (
     <div>
       <section className="bg-[#272727] py-6 px-4 sm:py-12 sm:px-6">
-        <div className="max-w-[1200px] w-full mx-auto bg-[#1c1c1c] rounded-[20px] overflow-hidden items-stretch flex flex-col lg:flex-row h-auto lg:h-[479px] gap-6 lg:gap-8">
+        <div className="max-w-[1200px] w-full mx-auto bg-[#1c1c1c] rounded-[20px] overflow-hidden items-stretch flex flex-col xl:flex-row h-auto xl:h-[479px] gap-6 xl:gap-8">
           <div className="flex-1 p-6 sm:p-8 sm:ml-5 flex flex-col items-center justify-center">
             <div className="max-w-[330px] w-full mx-auto">
               <div className="flex items-center gap-2 mb-4">
@@ -63,7 +63,7 @@ const Community = () => {
           </div>
           <div className=" bg-[#299764] p-[0px_20px_0px_20px]">
             <div className="flex gap-6">
-              <div className="flex-[0_0_730px]  overflow-x-auto scrollbar-custom  flex justify-between">
+              <div className="xl:flex-[0_0_730px] flex-[auto] overflow-x-auto scrollbar-custom  flex justify-between">
                 <div className="bg-[#299764] rounded-xl h-full sm:p-6 p-2 flex flex-col justify-between">
                   <div className="bg-[#1c1c1c] rounded-[16px] sm:p-6 p-3 max-w-[420px]">
                     <div className="flex items-center justify-between mb-4">

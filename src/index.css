@@ -12,6 +12,7 @@ html {
 }
 body {
   background-color: #1c1c1c;
+    overflow: hidden;
 }
 .gradient-btn {
   border-radius: 100px;
