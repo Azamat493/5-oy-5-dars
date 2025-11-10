@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
         <div className="w-full md:max-w-[814px] ml-[100px] md:ml-0 flex flex-col sm:grid sm:grid-cols-3 xl:grid-cols-4 gap-0 mt-5">
           <div>
-            <h4 className="font-medium text-base text-white font-family mb-4">
+            <h4 className="font-medium text-base text-white font-family mb-2 sm:mb-4">
               Main
             </h4>
             <ul className="space-y-2">
@@ -42,7 +42,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h4 className="font-medium text-base text-white font-family mb-4">
+            <h4 className="font-medium text-base text-white font-family mt-[40px] mb-2 sm:mb-4">
               Categories
             </h4>
             <ul className="space-y-2">
@@ -73,7 +73,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h4 className="font-medium text-base text-white font-family mb-4">
+            <h4 className="font-medium text-base text-white font-family mt-[40px] mb-2 sm:mb-4">
               Company
             </h4>
             <ul className="space-y-2">
@@ -112,7 +112,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h4 className="font-medium text-base text-white font-family mb-4">
+            <h4 className="font-medium text-base text-white font-family mt-[40px] mb-2 sm:mb-4">
               Our Locations
             </h4>
             <address className="font-medium text-sm whitespace-nowrap text-white not-italic font-family space-y-1">
