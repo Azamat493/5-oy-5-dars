@@ -3,7 +3,7 @@ import { carsData } from "../Api";
 
 const Cars = () => {
   return (
-    <section className="py-12 mt-10 px-6 bg-[#1c1c1c]">
+    <section className="py-12 mt-10  px-6 bg-[#1c1c1c]">
       <div className="max-w-[1200px] mx-auto">
         <h2 className="font-semibold text-4xl text-center text-white font-family mb-4">
           Choose the car of your dreams

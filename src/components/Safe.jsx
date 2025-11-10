@@ -4,7 +4,7 @@ import Ellipse125 from "../assets/images/Ellipse125.png";
 
 const Safe = () => {
   return (
-    <div className="bg-[#1c1c1c] py-12 px-6">
+    <div className="bg-[#1c1c1c]  py-12 px-6">
       <div className="max-w-[1200px] mx-auto rounded-[20px] border-[1.50px] border-solid border-[#333] bg-[#1c1c1c] sm:px-8 px-2 sm:pt-8 pt-2 pb-0 flex flex-col lg:flex-row gap-8 items-center">
         <div className="lg:w-[60%] w-full">
           <h2 className="font-semibold text-4xl text-white font-family mb-4">

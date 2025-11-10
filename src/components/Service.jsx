@@ -3,7 +3,7 @@ import React from "react";
 const Service = () => {
   return (
     <div>
-      <section className="bg-[#1c1c1c] py-12 px-6">
+      <section className="bg-[#1c1c1c]  py-12 px-6">
         <div className="max-w-[1200px] mt-5 w-full mx-auto">
           <h2 className="mb-4 font-semibold text-4xl text-center text-white font-family">
             Unparalleled service
